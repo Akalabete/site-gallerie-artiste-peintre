@@ -18,3 +18,14 @@ Tags: two-columns, left-sidebar, custom-background, custom-colors, custom-header
 .section-comments {
     display: none;
 }
+
+.footer-bar {
+    display: none;
+}
+.widget-title { 
+text-align: center !important;
+}
+
+.cv-title {
+    border-bottom: solid 1px black;
+}
