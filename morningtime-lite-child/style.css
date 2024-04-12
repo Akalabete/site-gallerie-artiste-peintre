@@ -22,6 +22,9 @@ Tags: two-columns, left-sidebar, custom-background, custom-colors, custom-header
     background-color: #DADADA !important;
     border-radius: 20px;
 }
+#menu-nav a {
+    font-size: 2rem;
+}
 .header {
     background-color: #DADADA !important;
 }
@@ -40,4 +43,15 @@ text-align: center !important;
 
 .cv-title {
     border-bottom: solid 1px black;
+}
+.widget, .widget-block {
+    border-radius: 20px;
+    background: #DADADA !important;
+    color: #000000 !important;
+}
+.footer-body {
+    background-color: #DADADA !important;
+}
+.galleriecustom {
+    margin: 0 auto;
 }
