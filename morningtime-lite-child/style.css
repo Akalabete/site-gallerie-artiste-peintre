@@ -18,7 +18,19 @@ Tags: two-columns, left-sidebar, custom-background, custom-colors, custom-header
 .section-comments {
     display: none;
 }
-
+.post {
+    background-color: #DADADA !important;
+    border-radius: 20px;
+}
+.header {
+    background-color: #DADADA !important;
+}
+.post p, blockquote cite {
+    color: #000000 !important;
+}
+blockquote cite {
+    font-size: 1.2rem;
+}
 .footer-bar {
     display: none;
 }
