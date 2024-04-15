@@ -86,3 +86,21 @@ text-align: center !important;
 #block-25, #block-24 {
     padding-bottom: 0;
 }
+#block-9 a{
+    color: #991424!important;
+    font-weight: bold;
+}
+.archive-links a {
+    font-size: 1.5rem;
+    color: #991424!important;
+    font-weight: bold;
+}
+.archive-date {
+    font-size: 1.2rem;
+    color: #000000 !important;
+}
+.archive-year {
+    font-size: 1.6rem;
+}
+
+/* stylism du formulaire */
