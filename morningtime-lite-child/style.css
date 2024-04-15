@@ -86,10 +86,11 @@ text-align: center !important;
 #block-25, #block-24 {
     padding-bottom: 0;
 }
-#block-9 a{
+#block-9 a, #block-11 a{
     color: #991424!important;
     font-weight: bold;
 }
+
 .archive-links a {
     font-size: 1.5rem;
     color: #991424!important;
@@ -104,3 +105,34 @@ text-align: center !important;
 }
 
 /* stylism du formulaire */
+.wpcf7 {
+    background-color: #DADADA !important;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.wpcf7 label {
+    color: #991424!important;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.wpcf7 input[type="text"], .wpcf7 input[type="email"], .wpcf7 textarea {
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding-left: 20px;
+    border: none;
+    border-radius: 20px;
+    color: #000000 !important;
+}
+
+.wpcf7 input[type="submit"] {
+    background-color: #991424!important;
+    color: #DADADA !important;
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 1.2rem;
+    margin: 0 auto;
+    display: block;
+}
