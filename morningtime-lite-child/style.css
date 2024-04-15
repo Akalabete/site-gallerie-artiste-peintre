@@ -55,3 +55,34 @@ text-align: center !important;
 .galleriecustom {
     margin: 0 auto;
 }
+#block-14 a {
+    text-decoration: none;
+    color: purple !important;
+}
+
+.wp-block-social-link {
+    margin-top: 2em;
+    display: flex;
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+.wp-block-social-link svg {
+    width: 2em!important;
+    height: 2em !important;
+}
+.mt-20 {
+    padding-top: 20px;
+}
+
+#block-26, #block-14 {
+    padding-top: 0;
+}
+#block-25, #block-24 {
+    padding-bottom: 0;
+}
