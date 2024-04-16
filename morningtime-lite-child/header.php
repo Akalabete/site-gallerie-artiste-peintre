@@ -13,17 +13,19 @@
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="galerie d'exposition de l'artiste hélène LAZOWINSKY, essentiellement portraitiste, qui mets en scène les moments de la vie, de joie comme de peine, de gens au quotidien">
+	<meta name="robots" content="index, follow">
+	<meta name="keywords" content="peinture, art, humaniste, galerie, artiste, portrait, emotion, vivant, moment, capture, vie, quotidien, saint-aulaye, périgord, rencontre, histoire, douleur, révélation, joie, silence">
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website">
-	<meta property="og:url" content="URL_DE_VOTRE_SITE">
-	<meta property="og:title" content="TITRE_DE_VOTRE_SITE">
-	<meta property="og:description" content="DESCRIPTION_DE_VOTRE_SITE">
-	<meta property="og:image" content="URL_DE_L_IMAGE">
+	<meta property="og:url" content="https://www.peintrehumaniste.fr">
+	<meta property="og:title" content="Galerie personelle d'Hélène LAZOWINSKY">
+	<meta property="og:description" content="galerie d'exposition de l'artiste hélène LAZOWINSKY, essentiellement portraitiste, qui mets en scène les moments de la vie, de joie comme de peine, de gens au quotidien">
+	<meta property="og:image" content="https://peintrehumaniste.fr/wp-content/uploads/2024/04/photocvHL.webp">
 	<!-- Instagram -->
-	<meta property="al:ios:url" content="instagram://user?username=VOTRE_NOM_UTILISATEUR">
-	<meta property="al:ios:app_store_id" content="ID_DE_L_APPLICATION">
+	<meta property="al:ios:url" content="instagram://user?username=lazowinsky">
 	<meta property="al:ios:app_name" content="Instagram">
-	<meta property="al:android:url" content="https://www.instagram.com/_u/VOTRE_NOM_UTILISATEUR">
+	<meta property="al:android:url" content="https://www.instagram.com/_u/lazowinsky">
 	<meta property="al:android:app_name" content="Instagram">
 	<meta property="al:android:package" content="com.instagram.android">
     <script type="application/ld+json">
