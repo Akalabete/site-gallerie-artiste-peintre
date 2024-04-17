@@ -85,7 +85,7 @@
 	{
 	  "@type": "VisualArtwork",
 	  "name": "L'homme-qui-murmurait-à-l'oreille-des-corbeaux-corneilles-et-autres-freux-40x40cm",
-	  "image": "https://peintrehumaniste.local/wp-content/uploads/2024/04/L'homme-qui-murmurait-à-l'oreille-des-corbeaux-corneilles-et-autres-freux-40x40cm.webp",
+	  "image": "https://www.peintrehumaniste.fr/wp-content/uploads/2024/04/Lhomme-qui-murmurait-a-loreille-des-corbeaux-corneilles-et-autres-freux-40x40cm.webp",
 	  "description": "Portrait d'un himme à barbe avec un corbeau su' l'épaule droite",
 	  "artform": "Peinture",
 	  "artist": {
@@ -96,7 +96,7 @@
 	{
 	  "@type": "VisualArtwork",
 	  "name": "Je-crois-pas-que-je-finirais-ma-vie-comme-un-crétin-dans-un-hotel-40x40cm",
-	  "image": "https://peintrehumaniste.local/wp-content/uploads/2024/04/je-crois-pas-que-je-finirais-ma-vie-comme-un-crétin-dans-un-hotel-40x40cm.webp",
+	  "image": "https://www.peintrehumaniste.fr/wp-content/uploads/2024/04/Je-crois-pas-que-je-finirais-ma-vie-comme-un-cretin-dans-un-hotel-40x40cm.webp",
 	  "description": "portrait 3/4 d'un homme pensif avec lunette et casquette rouge",
 	  "artform": "Peinture",
 	  "artist": {
@@ -183,19 +183,8 @@
 	},
 	{
 	  "@type": "VisualArtwork",
-	  "name": "Nom de l'œuvre d'art 2",
-	  "image": "URL de l'image de l'œuvre d'art 2",
-	  "description": "Description de l'œuvre d'art 2",
-	  "artform": "Peinture",
-	  "artist": {
-		"@type": "Person",
-		"name": "Hélène LAZOWINSKY"
-	  }
-	},
-	{
-	  "@type": "VisualArtwork",
 	  "name": "Venise-n'est-pas-en-Italie",
-	  "image": "https://peintrehumaniste.local/wp-content/uploads/2024/04/venise-n'est-pas-en-italie.webp",	
+	  "image": "https://www.peintrehumaniste.fr/wp-content/uploads/2024/04/Venise-nest-pas-en-Italie-scaled.webp",	
 	  "description": "Jeune femme en train de prendre son café en tenue informelle",
 	  "artform": "Peinture",
 	  "artist": {
@@ -217,7 +206,7 @@
 	{
 	  "@type": "VisualArtwork",
 	  "name": "T'es-qu'un-point-sur-le-i-du-chagrin,-de-la-vie",
-	  "image": "https://peintrehumaniste.local/wp-content/uploads/2024/04/tes-qu'un-point-sur-le-i-du-chagrin,-de-la-vie.webp",
+	  "image": "https://www.peintrehumaniste.fr/wp-content/uploads/2024/04/Tes-quun-point-sur-le-i-du-chagrin-de-la-vie-scaled.webp",
 	  "description": "jeune femme en robe noire qui se tient l épaule gauche",
 	  "artform": "Peinture",
 	  "artist": {
@@ -239,7 +228,7 @@
 	{
 	  "@type": "VisualArtwork",
 	  "name": "Olga,-son-dada-c'était-pas-moi-c'était-la-vodka",
-	  "image": "https://peintrehumaniste.local/wp-content/uploads/2024/04/olga,-son-dada-cetait-pas-moi-cetait-la-vodka.webp",
+	  "image": "https://www.peintrehumaniste.fr/wp-content/uploads/2024/04/Olga-son-dada-cetait-pas-moi-cetait-la-vodka.webp",
 	  "description": "personne masquée dans un fauteuil en robe de chambre avec un chat noir sur l'accoudoir",
 	  "artform": "Peinture",
 	  "artist": {
@@ -250,7 +239,7 @@
 	{
 	  "@type": "VisualArtwork",
 	  "name": "Nous-n'avions-pas-fini-de-nous-parler-d'amour",
-	  "image": "https://peintrehumaniste.local/wp-content/uploads/2024/04/nous-navions-pas-fini-de-nous-parler-damour.webp",
+	  "image": "https://www.peintrehumaniste.fr/wp-content/uploads/2024/04/Nous-navions-pas-fini-de-nous-parler-damour-scaled.webp",
 	  "description": "homme d'age mur barbu assis sur un banc, fond urbain rouge",
 	  "artform": "Peinture",
 	  "artist": {
@@ -261,7 +250,7 @@
 	{
 	  "@type": "VisualArtwork",
 	  "name": "Ni-tout-à-fait-la-même-ni-tout-à-fait-une-autre",
-	  "image": "https://peintrehumaniste.local/wp-content/uploads/2024/04/ni-tout-à-fait-la-meme-ni-tout-à-fait-une-autre.webp",
+	  "image": "https://www.peintrehumaniste.fr/wp-content/uploads/2024/04/Ni-tout-a-fait-la-meme-ni-tout-a-fait-une-autre.webp",
 	  "description": "femme légèrement vétue qui cache l'oeil gauche",
 	  "artform": "Peinture",
 	  "artist": {
@@ -272,7 +261,7 @@
 	{
 	  "@type": "VisualArtwork",
 	  "name": "Les-yeux-me-brûlent-d'avoir-pensé-à-pleurer",
-	  "image": "https://peintrehumaniste.local/wp-content/uploads/2024/04/les-yeux-me-brulent-davoir-pensé-à-pleurer.webp",
+	  "image": "https://www.peintrehumaniste.fr/wp-content/uploads/2024/04/Les-yeux-me-brulent-davoir-pense-a-pleurer-scaled.webp",
 	  "description": "jeune femme blonde prostrée sur un dossier sombre",
 	  "artform": "Peinture",
 	  "artist": {
@@ -283,7 +272,7 @@
 	{
 	  "@type": "VisualArtwork",
 	  "name": "Le-jour-d'après",
-	  "image": "https://peintrehumaniste.local/wp-content/uploads/2024/04/le-jour-dapres.webp",
+	  "image": "https://peintrehumaniste.fr/wp-content/uploads/2024/04/Le-jour-dapres-scaled.webp",
 	  "description": "femme habbillée en rouge l'air pensive , assise.",
 	  "artform": "Peinture",
 	  "artist": {
@@ -294,7 +283,7 @@
 	{
 	  "@type": "VisualArtwork",
 	  "name": "Là-tout-n'est-qu'ordre-et-beauté-luxe-calme-et-volupté",
-	  "image": "https://peintrehumaniste.local/wp-content/uploads/2024/04/là-tout-nest-quordre-et-beaute-luxe-calme-et-volupte.webp",
+	  "image": "https://www.peintrehumaniste.fr/wp-content/uploads/2024/04/La-tout-nest-quordre-et-beaute-luxe-calme-et-volupte.webp",
 	  "description": "homme chauve avec une boucle d'oreille fumant un cigare à la terrasse d'un café",
 	  "artform": "Peinture",
 	  "artist": {
@@ -305,7 +294,7 @@
 	{
 	  "@type": "VisualArtwork",
 	  "name": "Laisse-tes-dents-poser-leur-sourire-de-loup",
-	  "image": "https://peintrehumaniste.local/wp-content/uploads/2024/04/laisse-tes-dents-poser-leur-sourire-de-loup.webp",
+	  "image": "https://www.peintrehumaniste.fr/wp-content/uploads/2024/04/Laisse-tes-dents-poser-leur-sourire-de-loup-scaled.webp",
 	  "description": "homme nu avec une canne accoudé à quelque chose",
 	  "artform": "Peinture",
 	  "artist": {
@@ -316,7 +305,7 @@
 	{
 	  "@type": "VisualArtwork",
 	  "name": "J'aime-regarder-les-filles",
-	  "image": "https://peintrehumaniste.local/wp-content/uploads/2024/04/jaime-regarder-les-filles.webp",
+	  "image": "https://www.peintrehumaniste.fr/wp-content/uploads/2024/04/Jaime-regarder-les-filles.webp",
 	  "description": "deux monsieurs d'âge mur assis sur une banquette d'un café regard perdu dans le décor",
 	  "artform": "Peinture",
 	  "artist": {
@@ -327,7 +316,7 @@
 	{
 	  "@type": "VisualArtwork",
 	  "name": "I-was-a-passenger",
-	  "image": "https://peintrehumaniste.local/wp-content/uploads/2024/04/i-was-a-passenger.webp",
+	  "image": "https://www.peintrehumaniste.fr/wp-content/uploads/2024/04/I-was-a-passenger-scaled.webp",
 	  "description": "personne au cheveux longs et clair montrant des doigts avec des bagues dans une posture rock",
 	  "artform": "Peinture",
 	  "artist": {
@@ -338,7 +327,7 @@
 	{
 	  "@type": "VisualArtwork",
 	  "name": "Et-ta-soeur",
-	  "image": "https://peintrehumaniste.local/wp-content/uploads/2024/04/et-ta-soeur.webp",
+	  "image": "https://www.peintrehumaniste.fr/wp-content/uploads/2024/04/Et-ta-soeur-scaled.webp",
 	  "description": "jeune femme assise sur une chaise rouge",
 	  "artform": "Peinture",
 	  "artist": {
@@ -349,7 +338,7 @@
 	{
 	  "@type": "VisualArtwork",
 	  "name": "Elle-dérange-la-nuit-dans-le-bruit-du-silence",
-	  "image": "https://peintrehumaniste.local/wp-content/uploads/2024/04/elle-derange-la-nuit-dans-le-bruit-du-silence.webp",
+	  "image": "https://www.peintrehumaniste.fr/wp-content/uploads/2024/04/Elle-derange-la-nuit-dans-le-bruit-du-silence-scaled.webp",
 	  "description": "dame jouant de la flute habillée de sombre",
 	  "artform": "Peinture",
 	  "artist": {
@@ -360,7 +349,7 @@
 	{
 	  "@type": "VisualArtwork",
 	  "name": "Dessine moi un mouton",
-	  "image": "https://peintrehumaniste.local/wp-content/uploads/2024/04/dessine-moi-un-mouton.webp",
+	  "image": "https://www.peintrehumaniste.fr/wp-content/uploads/2024/04/Dessine-moi-un-mouton-scaled.webp",
 	  "description": "jeune femme assise près d'une tête de bétail sur une table rouge",
 	  "artform": "Peinture",
 	  "artist": {

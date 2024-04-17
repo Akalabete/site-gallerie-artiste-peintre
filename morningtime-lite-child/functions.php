@@ -15,5 +15,30 @@ function morning_time_lite_content_navigation( $nav_id ) { ?>
    </div><!-- /.post-nav -->
 <?php
 }
+
+
+if ( ! function_exists( 'morning_time_lite_header_style' ) ) {
+
+	function morning_time_lite_header_style() {
+
+		// If no custom options for text are set, let's bail
+		// get_header_textcolor() options: $header_text_color is default, hide text (returns 'blank') or any hex value
+
+		if ( isset($header_text_color) && $header_text_color == get_header_textcolor() )
+    return;
+		// If we get this far, we have custom styles. Let's do this.
+		?>
+		<style type="text/css">
+			<?php // Has the text been hidden?
+				if ( 'blank' == get_header_textcolor() ) { ?>
+					#site-title{ position: absolute !important; clip: rect(1px 1px 1px 1px); /* IE6, IE7 */ clip: rect(1px, 1px, 1px, 1px); }
+				<?php // If the user has set a custom color for the text use that
+				} else { ?>
+					#site-title a, #site-description { color: #<?php echo get_header_textcolor(); ?> !important; }
+			<?php } ?>
+		</style>
+		<?php
+	}
+}
 ?>
 

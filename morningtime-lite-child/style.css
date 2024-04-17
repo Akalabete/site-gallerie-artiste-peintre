@@ -97,7 +97,7 @@ text-align: center !important;
     font-weight: bold;
 }
 .archive-date {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     color: #000000 !important;
 }
 .archive-year {
@@ -135,4 +135,8 @@ text-align: center !important;
     font-size: 1.2rem;
     margin: 0 auto;
     display: block;
+}
+
+.wp-block-social-links .wp-block-social-link.wp-social-link .wp-block-social-link-anchor:hover {
+    color: #fff !important; 
 }
